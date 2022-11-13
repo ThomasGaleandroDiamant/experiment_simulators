@@ -3,3 +3,5 @@ bqplot
 ipympl
 ipyvolume
 scipy
+numpy
+scikit-learn
